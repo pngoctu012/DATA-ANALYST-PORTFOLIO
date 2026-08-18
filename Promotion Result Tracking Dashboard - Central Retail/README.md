@@ -43,7 +43,7 @@ The objective of this project is to build a scalable and centralized promotion a
 ---------------------------------------------------
 # **4. Database Design**
 
-<img width="980" height="766" alt="image" src="https://github.com/user-attachments/assets/6c02af1c-fd80-45eb-81ee-be1ac168d0a0" />
+<img width="1920" height="1080" alt="bronze_sales" src="https://github.com/user-attachments/assets/0bdcacca-3b7c-4a8c-b136-1d27062fda9f" />
 
 The PostgreSQL database follows a Bronze–Silver–Gold architecture, separating raw data ingestion, data transformation, and business-ready datasets.
 
