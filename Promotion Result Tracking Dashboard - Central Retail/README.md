@@ -38,29 +38,7 @@ The objective of this project is to build a scalable and centralized promotion a
 ---------------------------------------------------
 # **3. Data Architecture**
 
-ERP / CSV
-   │
-   ▼
-Python
- ├── Data ingestion
- ├── Cleaning
- ├── Transformation
- └── Validation
-   │
-   ▼
-PostgreSQL
- ├── Bronze
- ├── Silver
- └── Gold
-   │
-   ▼
-Power BI
- ├── Data Model
- ├── DAX
- └── Dashboard
-   │
-   ▼
-Business Insights
+<img width="227" height="535" alt="image" src="https://github.com/user-attachments/assets/f4953213-fa86-467f-bef6-0d445279477f" />
 
 ---------------------------------------------------
 # **4. Database Design**
@@ -110,3 +88,7 @@ This project demonstrates an end-to-end approach to retail promotion analytics, 
 By combining Python, SQL, PostgreSQL, and Power BI, the solution reduces manual data preparation and provides a consistent framework for monitoring promotion performance across campaigns, SKUs, stores, and regions.
 
 More importantly, the project focuses on turning data into actionable business insights to support promotion evaluation, assortment decisions, and commercial planning.
+
+***Python Test script***: [Here]([https://docs.google.com/spreadsheets/d/16DCfRiaeK_pfVdzqQhOuTIa6ndcsp-8cR-9BZ2z_F1o/edit?gid=0#gid=0](https://github.com/pngoctu012/PORTFOLIO-DATA-ANALYST/blob/main/Promotion%20Result%20Tracking%20Dashboard%20-%20Central%20Retail/PROMOTION%20DASHBOARD.py))
+
+***SQL Test script***: [Here]([https://docs.google.com/spreadsheets/d/16DCfRiaeK_pfVdzqQhOuTIa6ndcsp-8cR-9BZ2z_F1o/edit?gid=0#gid=0](https://github.com/pngoctu012/PORTFOLIO-DATA-ANALYST/blob/main/Promotion%20Result%20Tracking%20Dashboard%20-%20Central%20Retail/PROMOTION%20DASHBOARD.sql))
