@@ -89,6 +89,6 @@ By combining Python, SQL, PostgreSQL, and Power BI, the solution reduces manual 
 
 More importantly, the project focuses on turning data into actionable business insights to support promotion evaluation, assortment decisions, and commercial planning.
 
-***Python Test script***: [Here]([https://docs.google.com/spreadsheets/d/16DCfRiaeK_pfVdzqQhOuTIa6ndcsp-8cR-9BZ2z_F1o/edit?gid=0#gid=0](https://github.com/pngoctu012/PORTFOLIO-DATA-ANALYST/blob/main/Promotion%20Result%20Tracking%20Dashboard%20-%20Central%20Retail/PROMOTION%20DASHBOARD.py))
+***Python Test Script***: [Here](https://github.com/pngoctu012/PORTFOLIO-DATA-ANALYST/blob/main/Promotion%20Result%20Tracking%20Dashboard%20-%20Central%20Retail/PROMOTION%20DASHBOARD.py)
 
-***SQL Test script***: [Here]([https://docs.google.com/spreadsheets/d/16DCfRiaeK_pfVdzqQhOuTIa6ndcsp-8cR-9BZ2z_F1o/edit?gid=0#gid=0](https://github.com/pngoctu012/PORTFOLIO-DATA-ANALYST/blob/main/Promotion%20Result%20Tracking%20Dashboard%20-%20Central%20Retail/PROMOTION%20DASHBOARD.sql))
+***SQL Test script***: [Here](https://github.com/pngoctu012/PORTFOLIO-DATA-ANALYST/blob/main/Promotion%20Result%20Tracking%20Dashboard%20-%20Central%20Retail/PROMOTION%20DASHBOARD.sql)
